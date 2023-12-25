@@ -1,1 +1,3 @@
-# my_terraform_best_practices
+# My Terraform Best Practices
+
+Check the `./modules`
